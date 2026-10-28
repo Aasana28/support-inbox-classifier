@@ -22,3 +22,4 @@ Professional, clear, reassuring, and precise regarding figures, dates, and bank 
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for reaching out to Brightwave Accounts. We have reviewed your invoice inquiry regarding invoice {{invoice_number}}. The total billed amount is {{invoice_amount}} INR inclusive of 18% GST. As per our standard terms, payment is due within 15 calendar days via NEFT/RTGS to HDFC Bank Account #50200089123456 (IFSC: HDFC0000123, Branch: Bodakdev, Ahmedabad) or UPI ID brightwave@hdfcbank. If you require a revised GST breakdown or credit note adjustment, please submit your query with PO reference to billing@brightwavedigital.in. Our team processes reconciliation updates within 24 business hours."
+

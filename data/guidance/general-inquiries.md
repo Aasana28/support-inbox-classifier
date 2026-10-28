@@ -22,3 +22,4 @@ Warm, welcoming, courteous, and efficient.
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for getting in touch with Brightwave Digital! We would be delighted to connect. Our office is located at 402 Stellar Tower, SG Highway, Bodakdev, Ahmedabad. Our core team is available Monday through Friday from 9:30 AM to 6:30 PM IST. To arrange a video discussion or in-person meeting, please choose a convenient time slot via our meeting link at cal.brightwavedigital.in/team, or let us know your availability and we will send a calendar invite. We look forward to speaking soon!"
+

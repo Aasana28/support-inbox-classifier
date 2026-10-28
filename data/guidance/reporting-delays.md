@@ -22,3 +22,4 @@ Transparent, accountable, informative, and solutions-oriented.
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for checking in on your performance report. Standard monthly reports are finalized by the 5th business day of each month following attribution model validation across Google and Meta. We are currently verifying end-of-month conversion data to ensure total metric accuracy. In the meantime, your live Looker Studio dashboard remains accessible 24/7 at your dedicated portal link, showing real-time spend and clicks. Our lead media strategist will deliver your complete executive summary deck with actionable insights within 24 hours."
+

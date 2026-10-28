@@ -22,3 +22,4 @@ Utmost seriousness, rigorous confidentiality, prompt, and non-committal regardin
 
 ### Approved Reply Template
 "Hello {{client_name}}, We take data privacy, GDPR compliance, and security with paramount urgency. We have logged your request under ticket SEC-BWD-2026-0891 and escalated it directly to our Data Protection Officer and Lead Security Engineer. For data deletion requests, our compliance team processes record scrubbing within 30 days pursuant to DPDP guidelines. If this pertains to a security concern, our team has initiated verification protocols. Our Head of Legal and Compliance will contact your designated security representative directly with an official status briefing."
+

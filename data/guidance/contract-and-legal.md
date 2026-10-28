@@ -22,3 +22,4 @@ Formal, respectful, legally guarded, and neutral. Never concede points or promis
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for your correspondence regarding our Master Services Agreement. We have received your notice and forwarded your communication to Brightwave Digital's Legal and Compliance team for formal review. All contractual inquiries and termination clauses are governed by Section 14 of our executed agreement. Our General Counsel is reviewing your account file and will provide a formal written response to your authorized representative within 2 business days. Please address all further legal filings directly to legal@brightwavedigital.in."
+

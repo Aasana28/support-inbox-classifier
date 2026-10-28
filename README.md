@@ -152,3 +152,4 @@ flowchart TD
 
 1. **Free-tier Rate Limits:** During heavy sequential execution of the 16 quality test cases, Groq's free-tier rate limits (8,000 TPM) may trigger fallback to `openai/gpt-oss-20b` or a transient delay.
 2. **Simulation Mode:** The "Approve & Send" button simulates an SMTP transmission and updates React UI state; it does not dispatch real outward emails over SES/SendGrid.
+

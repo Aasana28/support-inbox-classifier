@@ -22,3 +22,4 @@ Objective, empathetic, firm, and compliant. Never admit liability or promise mon
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for contacting Brightwave Digital regarding your account balance and refund query. We understand your concern and take all billing feedback seriously. Under our client service agreement (Section 8.2, REF-2026-BWD), retainers cover allocated engineering and creative hours, while unutilized ad spend remains safely in your dedicated media escrow. Our Finance Review Committee conducts refund evaluations within 5 business days upon receiving documented campaign performance reviews. A dedicated account supervisor has been notified to inspect your deliverables and will contact you directly to discuss fair reconciliation."
+

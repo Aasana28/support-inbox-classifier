@@ -22,3 +22,4 @@ Technical, prompt, reassuring, and methodical.
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for alerting us to this technical issue. We have logged ticket BWD-TECH-2026-0412 under high priority. Our engineering team is currently inspecting your GTM container and server-side Conversions API integration to pinpoint why tracking events are dropping. We will deploy the necessary fix in preview mode first to ensure no disruption to your live checkout. Our technical lead will provide a status update within 2 hours with the verified resolution."
+

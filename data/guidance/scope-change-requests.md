@@ -22,3 +22,4 @@ Accommodating, structured, transparent, and commercial.
 
 ### Approved Reply Template
 "Hello {{client_name}}, We would be delighted to support this initiative! Expanding into new ad channels and building dedicated campaign landing pages will certainly amplify your growth. Because this falls outside our current monthly retainer SOW, our team will prepare a formal Scope Addendum (COP-2026) outlining deliverable milestones, asset timelines, and commercial estimates (typically 35,000 to 50,000 INR depending on asset volume). Your Account Manager will send the draft addendum for review within 24 business hours."
+

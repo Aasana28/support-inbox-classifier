@@ -22,3 +22,4 @@ Welcoming, organized, instructive, and security-conscious.
 
 ### Approved Reply Template
 "Hello {{client_name}}, Welcome to Brightwave Digital! We are thrilled to partner with your team. To connect our agency MCC and Business Manager without exchanging passwords, please approve partner access for Meta Business ID 108923481239812 and Google Ads CID 892-124-9011 with 'Standard' analyst permissions. Once received, our onboarding specialist will finish tag integration and configure your reporting dashboards. We have sent your onboarding kick-off calendar link to schedule our kickoff strategy session this week."
+

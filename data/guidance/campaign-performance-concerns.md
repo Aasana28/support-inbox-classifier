@@ -22,3 +22,4 @@ Analytical, empathetic, objective, and proactive. Avoid making unrealistic guara
 
 ### Approved Reply Template
 "Hello {{client_name}}, Thank you for sharing your feedback on recent campaign metrics. We monitor your account health closely and understand your concern regarding recent CPA and conversion rate trends. Our senior performance analyst is conducting an audit covering keyword quality scores, ad fatigue frequencies, and landing page bounce rates. We are preparing a 48-hour optimization roadmap which includes testing fresh high-intent creative variants and tightening audience bid thresholds. Your dedicated Account Manager will share the audit findings and schedule an action review call with you tomorrow by 3:00 PM IST."
+
